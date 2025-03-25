@@ -2,6 +2,7 @@
 Participación de Machine Lerning Alura Latam
 
 # Análisis de Riesgo Crediticio en un Banco Alemán
+![Riesgo Crediticio](https://www.economia360.org/wp-content/uploads/2020/07/Riesgo-de-cr%C3%A9dito-600x388.jpg.webp)
 
 ## Descripción del Proyecto
 
